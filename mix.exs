@@ -19,7 +19,7 @@ defmodule Parser.MixProject do
 
   defp deps do
     [
-      {:poison, "~> 2.1.0"}
+      {:poison, "~> 4.0"}
     ]
   end
 end
